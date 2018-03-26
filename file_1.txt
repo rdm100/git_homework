@@ -1,0 +1,5 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A2FA-2D2A
+
+ Directory of C:\Users\1\w1_d1\homework_day1
+
